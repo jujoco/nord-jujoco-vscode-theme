@@ -1,0 +1,45 @@
+{
+  "name": "nord-jujoco",
+  "displayName": "Nord Jujoco",
+  "description": "Nord-Jujoco is a refined extension of the beloved Nord color palette, tailored for developers who value both aesthetics and functionality. This theme preserves the original calm and cool tones of Nord while introducing enhanced variable color differentiation for improved readability and developer productivity.",
+  "version": "0.0.1",
+  "publisher": "Jujoco | Julian J. Cobos",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "author": {
+    "name": "Julian Cobos",
+    "url": "https://www.jujoco.com"
+  },
+  "homepage": "https://github.com/jujoco/nord-jujoco",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jujoco/nord-jujoco"
+  },
+  "bugs": {
+    "url": "https://github.com/jujoco/nord-jujoco/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "aesthetics",
+    "functional",
+    "clean",
+    "elegant",
+    "nord",
+    "jujoco",
+    "vscode theme"
+  ],
+  "icon": "assets/extension-marketplace-icon.png",
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nord Jujoco",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nord-Jujoco-color-theme.json"
+      }
+    ]
+  }
+}
