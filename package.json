@@ -31,8 +31,12 @@
     "jujoco",
     "vscode theme"
   ],
-  "icon": "assets/extension-marketplace-icon.png",
   "license": "MIT",
+  "galleryBanner": {
+    "color": "#2b303b",
+    "theme": "dark"
+  },
+  "icon": "assets/icon-128x128.png",
   "contributes": {
     "themes": [
       {
