@@ -11,13 +11,13 @@
     "name": "Julian Cobos",
     "url": "https://www.jujoco.com"
   },
-  "homepage": "https://github.com/jujoco/nord-jujoco",
+  "homepage": "https://github.com/jujoco/nord-jujoco-vscode-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jujoco/nord-jujoco"
+    "url": "https://github.com/jujoco/nord-jujoco-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/jujoco/nord-jujoco/issues"
+    "url": "https://github.com/jujoco/nord-jujoco-vscode-theme/issues"
   },
   "categories": [
     "Themes"
