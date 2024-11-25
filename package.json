@@ -45,5 +45,11 @@
         "path": "./themes/Nord-Jujoco-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
