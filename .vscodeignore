@@ -4,6 +4,3 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-assets/
-!assets/extension-marketplace-icon.png
-!assets/extension-marketplace-icon-2x.png
