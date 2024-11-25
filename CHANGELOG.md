@@ -2,10 +2,14 @@
 
 All notable changes to the "nord-jujoco" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [v1.0.2] - (2024-11-25)
 
-## [Unreleased]
+### Patch
 
-## [1.0.0] - 2024-11-25
+- update package.json repo url + add license url
+
+## [v1.0.0] - 2024-11-25
+
 ### Added
+
 - Initial release of the extension.
