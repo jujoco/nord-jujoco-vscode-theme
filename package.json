@@ -2,7 +2,7 @@
   "name": "nord-jujoco",
   "displayName": "Nord Jujoco",
   "description": "Nord-Jujoco the refined extension of the beloved Nord color palette, tailored for developers who value both aesthetics and functionality. This theme preserves the original calm and cool tones of Nord while introducing enhanced variable color differentiation for improved readability and developer productivity.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "Jujoco",
   "engines": {
     "vscode": "^1.95.0"
