@@ -44,7 +44,7 @@
     "editorHint.foreground": "#e8da9b",
     "editorInlayHint.background": "#434c5e",
     "editorInlayHint.foreground": "#ced4de",
-    "editorLineNumber.foreground": "#4c566a",
+    "editorLineNumber.foreground": "#4c566aaa",
     "editorLineNumber.activeForeground": "#ced4de",
     "editorWhitespace.foreground": "#4c566ab3",
     "editorWidget.background": "#20242d",
