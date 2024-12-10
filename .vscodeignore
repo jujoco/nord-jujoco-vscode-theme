@@ -5,5 +5,7 @@
 .vscode-test/**
 .gitignore
 
+# directories
+syntax-samples
 node_modules
 package-lock.json
