@@ -13,7 +13,7 @@
     "badge.background": "#88c0d0",
     "button.background": "#7ea5ccee",
     "button.foreground": "#1e222a",
-    "button.hoverBackground": "#88c0d0",
+    "button.hoverBackground": "#7ea5ccb0",
     "button.secondaryBackground": "#434c5e",
     "button.secondaryForeground": "#ced4de",
     "button.secondaryHoverBackground": "#4c566a",
