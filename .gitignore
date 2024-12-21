@@ -1,5 +1,5 @@
 .DS_Store
 *.vsix
 
-node_modules
-syntax-samples
+node_modules/
+syntax-samples/

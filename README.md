@@ -1,4 +1,4 @@
-#  Nord Jujoco
+# Nord Jujoco
 
 <div align='center'>
   <img src='https://raw.githubusercontent.com/jujoco/nord-jujoco/92c3ce540053c2cfddec7266f79921b0ad1ce44b/assets/logo-image.png' alt='logo' width='180px' >
@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![screenshot](https://raw.githubusercontent.com/jujoco/nord-jujoco/92c3ce540053c2cfddec7266f79921b0ad1ce44b/assets/demo.png)
+![screenshot](https://raw.githubusercontent.com/jujoco/nord-jujoco/92c3ce540053c2cfddec7266f79921b0ad1ce44b/assets/jsx.png)
 
 ### Installation
 

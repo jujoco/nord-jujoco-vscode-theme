@@ -1,11 +1,14 @@
 # Path match pattern to ignore when searching for files.
 # See https://code.visualstudio.com/api/working-with-extensions/publishing-extension#using-.vscodeignore for more details.
 
-.vscode/**
-.vscode-test/**
+# Excluded files
+.DS_Store
 .gitignore
-
-# directories
-syntax-samples
-node_modules
 package-lock.json
+
+# Excluded directories
+.vscode/
+.vscode-test/
+assets/
+syntax-samples/
+node_modules/
