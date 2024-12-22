@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![screenshot](https://raw.githubusercontent.com/jujoco/nord-jujoco/92c3ce540053c2cfddec7266f79921b0ad1ce44b/assets/jsx.png)
+![screenshot](https://raw.githubusercontent.com/jujoco/nord-jujoco-vscode-theme/refs/heads/main/assets/jsx.png)
 
 ### Installation
 
