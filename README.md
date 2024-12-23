@@ -11,6 +11,10 @@
   </div>
 </div>
 
+## Screenshot
+
+![Nord Jujoco Screenshot](https://raw.githubusercontent.com/jujoco/nord-jujoco-vscode-theme/refs/heads/main/assets/demo.png)
+
 ## Confirmed Supported Languages
 
 |                |                |                |             |
