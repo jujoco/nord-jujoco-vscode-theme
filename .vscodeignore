@@ -9,6 +9,5 @@ package-lock.json
 # Excluded directories
 .vscode/
 .vscode-test/
-assets/
 syntax-samples/
 node_modules/
