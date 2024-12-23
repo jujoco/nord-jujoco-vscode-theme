@@ -20,7 +20,7 @@
     "charts.red": "#bf616a",
     "charts.blue": "#90B3CB",
     "charts.yellow": "#e8d892",
-    "charts.orange": "#d08770",
+    "charts.orange": "#da9d8b",
     "charts.green": "#a3be8c",
     "charts.purple": "#b48ead",
     "charts.foreground": "#E8E8E9",
@@ -144,8 +144,8 @@
     "inputValidation.errorBorder": "#bf616a",
     "inputValidation.infoBackground": "#90B3CB",
     "inputValidation.infoBorder": "#90B3CB",
-    "inputValidation.warningBackground": "#d08770",
-    "inputValidation.warningBorder": "#d08770",
+    "inputValidation.warningBackground": "#da9d8b",
+    "inputValidation.warningBorder": "#da9d8b",
     "keybindingLabel.background": "#4c566a",
     "keybindingLabel.border": "#4c566a",
     "keybindingLabel.bottomBorder": "#4c566a",
@@ -634,7 +634,7 @@
       "name": "Variable Object Properties",
       "scope": "variable.other.property",
       "settings": {
-        "foreground": "#A3BE8C"
+        "foreground": "#9AD4F4"
       }
     },
     {
@@ -670,7 +670,8 @@
       "name": "[C/CPP] Meta Preprocessor Include",
       "scope": [
         "source.c meta.preprocessor.include",
-        "source.c string.quoted.other.lt-gt.include"
+        "source.c string.quoted.other.lt-gt.include",
+        "source.c storage.type.built-in.primitive",
       ],
       "settings": {
         "foreground": "#6ECFBE"
@@ -686,6 +687,16 @@
       ],
       "settings": {
         "foreground": "#5E81AC"
+      }
+    },
+    {
+      "name": "[CS] Types",
+      "scope": [
+        "source.cs keyword.type",
+        "source.cs entity.name.type",
+      ],
+      "settings": {
+        "foreground": "#6ECFBE"
       }
     },
     {
@@ -944,7 +955,7 @@
       "name": "[Java] Storage Type Annotation",
       "scope": "source.java storage.type.annotation",
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#da9d8b"
       }
     },
     {
@@ -983,7 +994,7 @@
         "source.js meta.decorator entity.name.function"
       ],
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#da9d8b"
       }
     },
     {
@@ -1090,7 +1101,7 @@
       "name": "[HTML] Constant Other Inline-Data",
       "scope": "text.html.basic constant.other.inline-data",
       "settings": {
-        "foreground": "#D08770",
+        "foreground": "#da9d8b",
         "fontStyle": "italic"
       }
     },
@@ -1274,46 +1285,37 @@
         "source.python meta.function.decorator support.type"
       ],
       "settings": {
-        "foreground": "#D08770"
-      }
-    },
-    {
-      "name": "[Python] Class Initialization",
-      "scope": "source.python meta.function-call meta.function-call.generic",
-      "settings": {
-        "foreground": "#6ECFBE"
+        "foreground": "#da9d8b"
       }
     },
     {
       "name": "[Python] Function Call",
-      "scope": "source.python meta.member.access meta.function-call meta.function-call.generic",
+      "scope": [
+        "source.python meta.member.access meta.function-call meta.function-call.generic"
+      ],
       "settings": {
         "foreground": "#e8d892"
       }
     },
     {
-      "name": "[Python] Support Type",
-      "scope": "source.python support.type",
+      "name": "[Ruby] Template String Punctuation",
+      "scope": [
+        "source.ruby string.quoted.double.ruby meta.embedded.line.ruby"
+      ],
       "settings": {
-        "foreground": "#88C0D0"
+        "foreground": "#E8E8E9",
+        "fontStyle": "italic"
       }
     },
     {
-      "name": "[Python] Function Parameter",
+      "name": "[Rust] Function Parameter Special",
       "scope": [
-        "source.python variable.parameter.function.language"
+        "source.rust entity.name.type.rust",
+        "source.rust entity.name.type.numeric.rust",
+        "source.rust entity.name.type.primitive.rust",
       ],
       "settings": {
-        "foreground": "#E8E8E9"
-      }
-    },
-    {
-      "name": "[Python] Function Parameter Special",
-      "scope": [
-        "source.python meta.function.parameters variable.parameter.function.language.special.self"
-      ],
-      "settings": {
-        "foreground": "#90B3CB"
+        "foreground": "#6ECFBE"
       }
     },
     {
@@ -1335,6 +1337,33 @@
       }
     },
     {
+      "name": "[Swift] Class Initialization",
+      "scope": [
+        "source.swift meta.function-call.swift support.function.any-method.swift",
+      ],
+      "settings": {
+        "foreground": "#6ECFBE"
+      }
+    },
+    {
+      "name": "[Swift] Function Call",
+      "scope": [
+        "source.swift meta.function-call.swift meta.function-call.swift support.function.any-method.swift",
+      ],
+      "settings": {
+        "foreground": "#e8d892"
+      }
+    },
+    {
+      "name": "[Swift] Parameters",
+      "scope": [
+        "source.swift variable.parameter.function.swift entity.name.function.swift",
+      ],
+      "settings": {
+        "foreground": "#E8E8E9"
+      }
+    },
+    {
       "name": "[TypeScript] Decorators",
       "scope": [
         "source.ts punctuation.decorator",
@@ -1345,7 +1374,7 @@
         "source.tsx meta.decorator entity.name.function"
       ],
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#da9d8b"
       }
     },
     {
@@ -1365,7 +1394,7 @@
         "source.tsx meta.object-literal.key entity.name.function"
       ],
       "settings": {
-        "foreground": "#88C0D0"
+        "foreground": "#E8D892"
       }
     },
     {
@@ -1448,7 +1477,7 @@
         "text.xml string.unquoted.cdata punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#D08770",
+        "foreground": "#da9d8b",
         "fontStyle": "italic"
       }
     },
@@ -1459,5 +1488,18 @@
         "foreground": "#6ECFBE"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "property": "#9AD4F4",
+    "function": "#e8d892",
+    "method": "#e8d892",
+    "class": "#6ECFBE",
+    "type": "#6ECFBE",
+    "enum": "#6ECFBE",
+    "interface": "#6ECFBE",
+    "namespace": "#6ECFBE",
+    "selfParameter": "#90B3CB",
+    "operator": "#90B3CB",
+  },
 }
