@@ -1,7 +1,7 @@
 # Nord Jujoco
 
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/jujoco/nord-jujoco/92c3ce540053c2cfddec7266f79921b0ad1ce44b/assets/logo-image.png' alt='logo' width='120px' >
+  <img src='https://raw.githubusercontent.com/jujoco/nord-jujoco-vscode-theme/refs/heads/main/assets/logo-image.png' alt='logo' width='120px' >
   <div>
   Crafted to offer developers a seamless, distraction-free coding experience that combines aesthetics with practical functionality.
   </div>
