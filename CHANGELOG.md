@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/jujoco/nord-jujoco-vscode-theme/compare/v1.3.2...v1.4.0) (2025-05-10)
+
+
+### Features
+
+* improve match and find background color constract ([c89c0a3](https://github.com/jujoco/nord-jujoco-vscode-theme/commit/c89c0a375a61aebd5a4abdc90b6883c5c34e7a41))
+
 ### [1.3.2](https://github.com/jujoco/nord-jujoco-vscode-theme/compare/v1.3.1...v1.3.2) (2025-04-10)
 
 ### [1.3.1](https://github.com/jujoco/nord-jujoco-vscode-theme/compare/v1.3.0...v1.3.1) (2025-04-02)
